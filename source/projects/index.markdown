@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "projects"
-date: 2013-06-15 15:39
 comments: false
 sharing: false
-footer: true
+footer: false
 ---
 
 Current Projects
