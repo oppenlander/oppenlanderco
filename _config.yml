@@ -4,7 +4,7 @@
 
 url: http://oppenlander.co
 title: Oppen Source
-subtitle: A place for nerdy musings and easy puns.
+subtitle: A place for boring opinions and easy puns by me, Andrew Oppenlander.
 author: Andrew Oppenlander
 simple_search: http://google.com/search
 description: I am currently a student in Computer Science and Mathematics at the University of Cincinnati. This is personal site and blog to write about things I am working on/interested in.
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 #subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: andrew@oppenlander.co
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -96,7 +96,7 @@ google_analytics_tracking_id: UA-39242259-1
 facebook_like: false
 
 # Linked In
-linkedin_user: andrew-oppenlander
+linkedin_user: andrewoppenlander
 
 # Octoflat Menu
 navigation:
