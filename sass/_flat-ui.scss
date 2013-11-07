@@ -176,12 +176,12 @@
 .fui-camera-24:before {
   content: "\e004"; }
 
-body, .jumbotron .container p {
+body, jumbotron p, .jumbotron .container p {
   color: $text-color;
   background: $bg-color;
   font: 18px/1.831 "Open Sans", sans-serif; }
 
-p, .jumbotron .container p {
+p, jumbotron p, .jumbotron .container p {
   font-weight: 300; }
 
 a {
